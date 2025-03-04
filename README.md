@@ -6,4 +6,5 @@ and repaired two broken switch lites.
 
 The whole program is in the one script, "script.py". All you need to do is have it in the same directory as the file labeled "queries" and 
 the cvc5 file, it will then run each query with a 60 second timer and print the results of sat, unsat, or timeout as well as how long it took
-and for which query into the results.csv file
+and for which query into the results.csv file. I've pushed the cvc5 file into the project as well for ease of use so you can just clone and 
+run the program immediately.
